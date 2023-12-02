@@ -1,0 +1,22 @@
+CREATE TABLE IF NOT EXISTS "crypto" (
+    "id" VARCHAR(18),
+    "symbol" VARCHAR(7),
+    "name" VARCHAR(18),
+    "image" VARCHAR(162),
+    "current_price" NUMERIC(13, 8),
+    "market_cap" BIGINT,
+    "market_cap_rank" INT,
+    "fully_diluted_valuation" BIGINT,
+    "total_volume" BIGINT,
+    "high_24h" NUMERIC(13, 8),
+    "low_24h" NUMERIC(13, 8),
+    "price_change_24h" NUMERIC(21, 18),
+    "price_change_percentage_24h" NUMERIC(7, 5),
+    "market_cap_change_24h" NUMERIC(22, 11),
+    "market_cap_change_percentage_24h" NUMERIC(7, 5),
+    "circulating_supply" NUMERIC(24, 9),
+    "total_supply" NUMERIC(24, 9),
+    "max_supply" NUMERIC(22, 8),
+    "roi" INT,
+    "last_updated" VARCHAR(24)
+);
