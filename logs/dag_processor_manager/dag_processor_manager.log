@@ -1,0 +1,1984 @@
+[2024-01-17 01:03:58,195] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:03:58,196] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:03:58,198] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:03:58,199] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:03:58,206] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:03:58,294] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dagCrypto.py    171  0.03s             0           0
+================================================================================
+[2024-01-17 01:04:28,561] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.08s           2024-01-17T01:04:18
+================================================================================
+[2024-01-17 01:04:58,991] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    201  0.01s             0           1  0.06s           2024-01-17T01:04:48
+================================================================================
+[2024-01-17 01:05:29,300] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    216  0.01s             0           1  0.09s           2024-01-17T01:05:19
+================================================================================
+[2024-01-17 01:05:59,620] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    231  0.01s             0           1  0.10s           2024-01-17T01:05:49
+================================================================================
+[2024-01-17 01:06:29,939] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    246  0.02s             0           1  0.08s           2024-01-17T01:06:19
+================================================================================
+[2024-01-17 01:07:00,187] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.06s           2024-01-17T01:06:50
+================================================================================
+[2024-01-17 01:07:30,542] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    276  0.01s             0           1  0.06s           2024-01-17T01:07:20
+================================================================================
+[2024-01-17 01:08:00,867] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    291  0.01s             0           1  0.09s           2024-01-17T01:07:50
+================================================================================
+[2024-01-17 01:08:31,179] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    306  0.01s             0           1  0.06s           2024-01-17T01:08:21
+================================================================================
+[2024-01-17 01:08:58,459] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:08:58,493] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:09:01,543] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    321  0.01s             0           1  0.08s           2024-01-17T01:08:51
+================================================================================
+[2024-01-17 01:09:31,823] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    336  0.01s             0           1  0.07s           2024-01-17T01:09:21
+================================================================================
+[2024-01-17 01:10:02,131] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    351  0.01s             0           1  0.08s           2024-01-17T01:09:52
+================================================================================
+[2024-01-17 01:10:32,391] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    366  0.01s             0           1  0.05s           2024-01-17T01:10:22
+================================================================================
+[2024-01-17 01:11:02,728] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    381  0.02s             0           1  0.06s           2024-01-17T01:10:52
+================================================================================
+[2024-01-17 01:11:33,006] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    396  0.02s             0           1  0.08s           2024-01-17T01:11:22
+================================================================================
+[2024-01-17 01:12:03,366] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    411  0.01s             0           1  0.09s           2024-01-17T01:11:53
+================================================================================
+[2024-01-17 01:12:33,533] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:12:45,467] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:12:45,468] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:12:45,469] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:12:45,470] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:12:45,480] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:12:45,518] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dagCrypto.py    170  0.01s             0           0
+================================================================================
+[2024-01-17 01:13:15,727] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    185  0.02s             0           1  0.06s           2024-01-17T01:13:05
+================================================================================
+[2024-01-17 01:13:45,999] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    200  0.01s             0           1  0.07s           2024-01-17T01:13:35
+================================================================================
+[2024-01-17 01:14:16,300] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py    215  0.01s             0           1  0.08s           2024-01-17T01:14:06
+================================================================================
+[2024-01-17 01:14:41,821] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:19:13,864] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:19:13,865] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:19:13,866] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:19:13,867] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:19:13,875] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:19:35,124] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:19:34
+================================================================================
+[2024-01-17 01:20:05,394] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:20:04
+================================================================================
+[2024-01-17 01:20:35,704] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.08s           2024-01-17T01:20:34
+================================================================================
+[2024-01-17 01:21:06,024] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:21:05
+================================================================================
+[2024-01-17 01:21:36,326] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:21:35
+================================================================================
+[2024-01-17 01:22:06,617] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:22:05
+================================================================================
+[2024-01-17 01:22:07,638] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:07,666] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:08,664] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:08,674] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:09,684] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:09,690] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:10,691] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:10,695] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:11,702] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:11,712] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:12,724] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:12,736] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:13,741] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:13,747] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:14,752] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:14,759] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:15,764] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:15,768] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:16,781] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:16,784] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:17,787] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:17,790] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:18,804] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:18,816] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:19,831] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:19,834] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:20,838] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:20,841] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:21,848] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:21,858] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:22,871] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:22,882] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:23,889] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:23,901] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:24,913] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:24,923] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:25,927] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:25,929] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:26,937] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:26,947] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:27,954] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:27,965] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:28,966] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:28,975] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:29,985] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:29,993] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:30,993] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:30,997] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:32,012] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:32,016] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:33,029] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:33,042] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:34,042] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:34,053] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:35,060] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:35,069] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:36,071] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:36,075] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:37,079] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:37,085] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:22:05
+================================================================================
+[2024-01-17 01:22:37,090] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:38,095] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:38,102] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:39,115] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:39,132] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:40,139] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:40,143] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:41,151] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:41,155] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:42,159] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:42,163] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:43,172] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:43,179] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:44,181] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:44,187] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:45,199] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:45,220] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:46,225] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:46,229] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:47,232] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:47,236] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:48,245] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:48,253] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:49,258] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:49,262] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:50,283] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:50,286] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:51,288] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:51,290] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:52,294] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:52,297] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:53,308] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:53,328] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:54,335] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:54,345] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:55,354] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:55,358] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:56,363] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:56,366] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:57,369] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:57,372] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:58,376] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:58,387] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:59,394] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:22:59,402] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:00,405] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:00,413] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:01,412] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:01,417] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:02,422] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:02,427] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:03,431] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:03,439] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:04,444] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:04,454] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:05,454] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:05,459] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:06,463] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:06,468] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:07,471] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:07,473] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:22:05
+================================================================================
+[2024-01-17 01:23:07,476] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:08,481] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:08,494] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:09,499] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:09,512] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:10,518] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:10,524] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:11,527] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:11,531] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:12,536] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:12,541] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:13,543] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:13,545] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:14,557] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:14,568] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:15,575] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:15,581] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:16,588] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:16,595] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:17,602] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:17,610] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:18,621] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:18,628] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:19,631] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:19,633] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:20,647] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:20,654] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:21,656] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:21,665] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:22,670] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:22,675] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:23,681] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:23,687] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:24,694] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:24,699] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:25,704] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:25,714] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:26,724] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:26,732] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:27,737] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:27,750] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:28,757] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:28,767] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:29,769] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:29,775] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:30,782] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:30,795] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:31,795] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:31,803] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:32,807] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:32,818] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:33,819] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:33,832] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:34,832] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:34,842] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:35,849] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:35,858] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:36,860] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:36,871] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:37,871] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:37,878] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:22:05
+================================================================================
+[2024-01-17 01:23:37,886] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:38,895] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:38,903] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:39,920] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:39,940] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:40,948] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:40,964] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:41,982] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:41,994] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:43,004] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:43,015] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:44,028] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:44,033] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:45,038] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:45,060] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:46,070] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:46,074] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:47,090] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:47,096] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:48,103] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:48,117] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:49,122] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:49,136] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:50,152] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:50,163] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:51,168] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:51,191] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:52,201] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:52,209] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:53,222] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:53,231] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:54,241] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:54,250] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:55,262] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:55,271] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:56,285] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:56,294] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:57,310] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:57,313] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:58,318] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:58,330] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:59,336] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:23:59,349] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:00,349] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:00,362] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:01,370] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:01,380] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:02,388] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:02,396] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:03,405] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:03,415] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:04,423] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:04,431] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:05,439] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:05,447] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:06,456] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:06,468] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:07,476] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:07,487] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:08,505] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:08,508] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dagCrypto.py                           0           1  0.07s           2024-01-17T01:22:05
+================================================================================
+[2024-01-17 01:24:08,509] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:09,517] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:09,527] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:10,537] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:10,552] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:11,559] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:11,570] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:12,580] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:12,597] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:13,605] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:13,616] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dagCrypto.py
+[2024-01-17 01:24:14,619] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:24:14,656] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:24:38,919] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.08s           2024-01-17T01:24:34
+================================================================================
+[2024-01-17 01:24:42,965] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:24:42,974] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:24:43,973] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:24:43,981] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:05,162] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:05,194] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:06,173] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:06,201] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:07,184] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:07,208] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:08,205] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:08,215] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:09,220] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:09,230] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.08s           2024-01-17T01:24:55
+================================================================================
+[2024-01-17 01:25:09,235] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:10,241] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:10,262] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:11,253] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:11,269] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:12,261] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:12,273] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:13,277] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:13,289] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:14,297] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:14,310] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:15,314] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:15,324] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:16,327] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:16,331] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:17,345] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:17,349] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:18,356] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:18,369] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:19,377] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:19,390] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:20,396] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:20,409] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:21,411] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:21,417] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:22,418] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:22,422] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:23,425] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:23,436] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:24,437] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:24,443] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:25,456] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:25,462] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:26,465] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:26,469] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:27,471] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:27,474] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:28,489] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:28,497] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:29,500] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:29,511] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:30,522] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:30,534] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:31,534] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:31,540] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:32,541] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:32,542] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:33,559] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:33,563] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:34,569] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:34,574] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:35,579] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:35,583] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:36,585] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:36,587] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:37,592] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:37,595] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:38,605] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:38,621] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:39,628] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:39,634] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.08s           2024-01-17T01:24:55
+================================================================================
+[2024-01-17 01:25:39,640] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:40,647] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:40,656] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:41,656] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:41,661] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:42,663] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:42,667] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:43,667] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:43,670] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:44,672] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:44,674] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:45,677] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:45,679] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:46,681] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:46,683] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:47,689] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:47,691] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:48,695] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:48,696] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:49,700] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:49,701] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:50,705] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:50,707] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:51,713] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:51,717] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:52,720] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:52,723] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:53,732] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:53,743] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:54,753] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:54,764] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:55,772] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:55,776] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:56,783] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:56,793] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:57,797] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:57,802] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:58,805] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:58,816] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:59,818] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:25:59,820] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:00,834] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:00,844] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:01,852] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:01,863] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:02,863] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:02,869] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:03,883] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:03,886] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:04,900] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:04,908] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:05,920] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:05,932] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:06,945] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:06,951] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:07,952] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:07,957] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:08,965] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:08,970] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:09,974] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:09,980] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.08s           2024-01-17T01:24:55
+================================================================================
+[2024-01-17 01:26:09,985] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:10,991] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:10,997] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:12,014] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:12,018] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:13,030] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:13,037] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:14,044] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:14,048] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:15,054] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:15,062] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:16,068] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:16,080] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:17,093] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:17,102] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:18,119] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:18,122] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:19,124] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:19,126] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:20,129] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:20,134] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:21,142] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:21,148] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:22,154] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:22,165] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:23,174] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:23,180] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:24,187] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:24,192] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:25,195] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:25,198] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:26,204] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:26,223] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:27,234] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:27,246] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:28,261] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:28,271] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:29,281] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:29,285] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:30,289] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:30,292] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:31,302] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:31,314] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:32,321] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:32,331] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:33,343] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:33,360] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:34,365] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:34,369] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:35,372] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:35,376] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:36,381] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:36,385] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:37,396] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:37,404] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:38,419] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:38,422] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:39,429] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:39,437] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:40,440] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:40,444] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.08s           2024-01-17T01:24:55
+================================================================================
+[2024-01-17 01:26:40,447] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:41,450] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:41,453] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:42,463] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:42,469] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:43,480] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:43,494] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:44,507] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:44,522] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:45,526] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:45,531] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:46,534] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:46,538] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:47,545] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:47,548] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:48,563] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:48,575] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:49,580] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:49,584] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:50,597] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:50,600] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:51,608] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:51,617] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:52,620] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:52,624] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:53,635] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:53,644] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:54,653] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:54,660] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:55,666] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:55,678] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:56,684] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:56,688] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:57,696] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:57,700] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:58,713] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:58,726] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:59,736] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:26:59,748] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:00,756] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:00,776] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:01,776] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:01,783] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:02,792] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:02,796] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:03,807] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:03,812] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:04,818] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:04,828] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:05,835] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:05,850] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:06,849] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:06,860] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:07,858] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:07,876] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:08,869] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:08,881] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:09,888] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:09,899] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:10,909] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:10,914] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.08s           2024-01-17T01:24:55
+================================================================================
+[2024-01-17 01:27:10,920] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:11,925] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:11,935] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:12,943] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:12,950] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:13,965] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:13,970] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:14,979] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:14,993] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:15,996] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:16,008] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:17,008] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:17,014] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:18,016] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:18,027] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:19,033] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:19,039] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:20,045] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:20,049] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:21,058] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:21,064] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:22,078] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:22,086] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:23,092] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:23,100] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:24,111] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:24,116] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:25,121] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:25,132] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:26,141] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:26,148] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:27,154] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:27,165] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:28,166] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:28,180] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:29,185] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:29,195] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:30,201] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:30,217] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:31,220] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:31,236] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:32,242] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:32,252] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:33,255] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:33,259] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_crypto.py
+[2024-01-17 01:27:33,542] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:27:48,834] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:27:48,835] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:27:48,837] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:27:48,838] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:27:48,842] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2024-01-17 01:32:49,616] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:32:49,642] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2024-01-17 01:35:12,775] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:35:24,106] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:35:24,107] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:35:24,108] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:35:24,109] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:35:24,114] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2024-01-17 01:37:09,485] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:37:24,751] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:37:24,752] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:37:24,753] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:37:24,754] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:37:24,758] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2024-01-17 01:39:15,554] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:39:36,719] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:39:36,720] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:39:36,721] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:39:36,722] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:39:36,726] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2024-01-17 01:44:37,678] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:44:37,700] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:44:38,748] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.20s           2024-01-17T01:44:37
+================================================================================
+[2024-01-17 01:45:09,382] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.13s           2024-01-17T01:45:08
+================================================================================
+[2024-01-17 01:45:10,823] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:45:24,395] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:45:24,396] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:45:24,397] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:45:24,398] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:45:24,408] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:45:24,445] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/example.py    170  0.01s             0           0
+================================================================================
+[2024-01-17 01:45:54,753] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.10s           2024-01-17T01:45:44
+================================================================================
+[2024-01-17 01:46:25,290] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.12s           2024-01-17T01:46:15
+================================================================================
+[2024-01-17 01:46:55,800] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:46:45
+================================================================================
+[2024-01-17 01:46:58,114] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:47:09,444] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:47:09,445] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:47:09,446] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:47:09,447] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:47:09,458] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:47:09,490] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/example.py    170  0.01s             0           0
+================================================================================
+[2024-01-17 01:47:39,855] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:47:29
+================================================================================
+[2024-01-17 01:48:10,403] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.13s           2024-01-17T01:48:00
+================================================================================
+[2024-01-17 01:48:40,945] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:48:30
+================================================================================
+[2024-01-17 01:49:11,498] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.12s           2024-01-17T01:49:01
+================================================================================
+[2024-01-17 01:49:42,037] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:49:32
+================================================================================
+[2024-01-17 01:50:12,383] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.09s           2024-01-17T01:50:02
+================================================================================
+[2024-01-17 01:50:42,855] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.08s           2024-01-17T01:50:32
+================================================================================
+[2024-01-17 01:51:13,283] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:51:03
+================================================================================
+[2024-01-17 01:51:43,854] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:51:33
+================================================================================
+[2024-01-17 01:51:47,416] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:52:00,605] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:52:00,606] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:52:00,607] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:52:00,609] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:52:00,619] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:52:00,657] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/example.py    170  0.01s             0           0
+================================================================================
+[2024-01-17 01:52:30,940] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.12s           2024-01-17T01:52:20
+================================================================================
+[2024-01-17 01:52:45,911] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:52:57,392] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:52:57,392] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:52:57,393] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:52:57,394] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:52:57,404] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 01:52:57,445] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/example.py    170  0.01s             0           0
+================================================================================
+[2024-01-17 01:53:27,825] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.16s           2024-01-17T01:53:17
+================================================================================
+[2024-01-17 01:53:58,403] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:53:48
+================================================================================
+[2024-01-17 01:54:28,945] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.11s           2024-01-17T01:54:18
+================================================================================
+[2024-01-17 01:54:59,491] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.12s           2024-01-17T01:54:49
+================================================================================
+[2024-01-17 01:55:30,039] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example.py                           1           0  0.13s           2024-01-17T01:55:20
+================================================================================
+[2024-01-17 01:55:55,250] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:56:20,679] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:56:20,680] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:56:20,681] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:56:20,682] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:56:20,694] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 01:56:20,735] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    169  0.01s             0           0
+/opt/airflow/dags/example.py       171  0.01s             0           0
+================================================================================
+[2024-01-17 01:56:51,130] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    199  0.04s             0           1  0.10s           2024-01-17T01:56:41
+/opt/airflow/dags/example.py       201  0.01s             1           0  0.10s           2024-01-17T01:56:41
+================================================================================
+[2024-01-17 01:57:10,499] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 01:57:23,922] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 01:57:23,922] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 01:57:23,924] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 01:57:23,925] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 01:57:23,940] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 01:57:23,987] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    170  0.02s             0           0
+/opt/airflow/dags/example.py       172  0.01s             0           0
+================================================================================
+[2024-01-17 01:57:54,391] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    200  0.04s             0           1  0.09s           2024-01-17T01:57:44
+/opt/airflow/dags/example.py       203  0.01s             1           0  0.09s           2024-01-17T01:57:44
+================================================================================
+[2024-01-17 01:58:24,846] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    230  0.03s             0           1  0.08s           2024-01-17T01:58:14
+/opt/airflow/dags/example.py       232  0.01s             1           0  0.09s           2024-01-17T01:58:14
+================================================================================
+[2024-01-17 01:58:55,276] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    260  0.03s             0           1  0.08s           2024-01-17T01:58:45
+/opt/airflow/dags/example.py       263  0.01s             1           0  0.09s           2024-01-17T01:58:45
+================================================================================
+[2024-01-17 01:59:25,708] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    290  0.02s             0           1  0.09s           2024-01-17T01:59:15
+/opt/airflow/dags/example.py       292  0.01s             1           0  0.09s           2024-01-17T01:59:15
+================================================================================
+[2024-01-17 01:59:56,120] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    320  0.01s             0           1  0.08s           2024-01-17T01:59:46
+/opt/airflow/dags/example.py       322  0.00s             1           0  0.09s           2024-01-17T01:59:46
+================================================================================
+[2024-01-17 02:00:11,301] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:00:22,796] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:00:22,797] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:00:22,798] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:00:22,799] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:00:22,812] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 02:00:22,860] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    170  0.02s             0           0
+/opt/airflow/dags/example.py       172  0.01s             0           0
+================================================================================
+[2024-01-17 02:00:53,263] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    200  0.03s             0           1  0.09s           2024-01-17T02:00:43
+/opt/airflow/dags/example.py       202  0.01s             1           0  0.09s           2024-01-17T02:00:43
+================================================================================
+[2024-01-17 02:01:23,706] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    230  0.02s             0           1  0.09s           2024-01-17T02:01:13
+/opt/airflow/dags/example.py       232  0.00s             1           0  0.09s           2024-01-17T02:01:13
+================================================================================
+[2024-01-17 02:01:38,187] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:01:52,210] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:01:52,212] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:01:52,213] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:01:52,214] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:01:52,229] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 02:01:52,266] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    170  0.01s             0           0
+/opt/airflow/dags/example.py       172  0.01s             0           0
+================================================================================
+[2024-01-17 02:02:22,648] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    200  0.03s             0           1  0.08s           2024-01-17T02:02:12
+/opt/airflow/dags/example.py       203  0.00s             1           0  0.09s           2024-01-17T02:02:12
+================================================================================
+[2024-01-17 02:02:53,097] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    230  0.01s             0           1  0.10s           2024-01-17T02:02:43
+/opt/airflow/dags/example.py       232  0.00s             1           0  0.10s           2024-01-17T02:02:43
+================================================================================
+[2024-01-17 02:03:23,521] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    260  0.02s             0           1  0.08s           2024-01-17T02:03:13
+/opt/airflow/dags/example.py       263  0.01s             1           0  0.09s           2024-01-17T02:03:13
+================================================================================
+[2024-01-17 02:03:53,988] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    290  0.02s             0           1  0.08s           2024-01-17T02:03:43
+/opt/airflow/dags/example.py       292  0.01s             1           0  0.09s           2024-01-17T02:03:43
+================================================================================
+[2024-01-17 02:04:00,861] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:04:18,997] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:04:18,999] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:04:19,000] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:04:19,001] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:04:19,016] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 02:04:19,061] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    170  0.01s             0           0
+/opt/airflow/dags/example.py       172  0.01s             0           0
+================================================================================
+[2024-01-17 02:04:49,531] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    200  0.03s             0           1  0.07s           2024-01-17T02:04:39
+/opt/airflow/dags/example.py       203  0.01s             1           0  0.09s           2024-01-17T02:04:39
+================================================================================
+[2024-01-17 02:05:19,964] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    230  0.01s             0           1  0.09s           2024-01-17T02:05:09
+/opt/airflow/dags/example.py       232  0.00s             1           0  0.10s           2024-01-17T02:05:09
+================================================================================
+[2024-01-17 02:05:50,418] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    260  0.03s             0           1  0.08s           2024-01-17T02:05:40
+/opt/airflow/dags/example.py       263  0.01s             1           0  0.09s           2024-01-17T02:05:40
+================================================================================
+[2024-01-17 02:06:04,254] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:06:22,076] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:06:22,077] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:06:22,078] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:06:22,079] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:06:22,096] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 02:06:22,139] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    169  0.01s             0           0
+/opt/airflow/dags/example.py       171  0.01s             0           0
+================================================================================
+[2024-01-17 02:06:52,525] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    199  0.02s             0           1  0.09s           2024-01-17T02:06:42
+/opt/airflow/dags/example.py       201  0.01s             1           0  0.10s           2024-01-17T02:06:42
+================================================================================
+[2024-01-17 02:07:22,939] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    229  0.02s             0           1  0.08s           2024-01-17T02:07:12
+/opt/airflow/dags/example.py       231  0.01s             1           0  0.09s           2024-01-17T02:07:12
+================================================================================
+[2024-01-17 02:07:53,357] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    259  0.02s             0           1  0.08s           2024-01-17T02:07:43
+/opt/airflow/dags/example.py       261  0.01s             1           0  0.09s           2024-01-17T02:07:43
+================================================================================
+[2024-01-17 02:08:23,792] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    289  0.01s             0           1  0.08s           2024-01-17T02:08:13
+/opt/airflow/dags/example.py       292  0.01s             1           0  0.09s           2024-01-17T02:08:13
+================================================================================
+[2024-01-17 02:08:54,266] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    319  0.03s             0           1  0.08s           2024-01-17T02:08:44
+/opt/airflow/dags/example.py       322  0.01s             1           0  0.09s           2024-01-17T02:08:44
+================================================================================
+[2024-01-17 02:09:24,733] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    349  0.02s             0           1  0.09s           2024-01-17T02:09:14
+/opt/airflow/dags/example.py       352  0.01s             1           0  0.10s           2024-01-17T02:09:14
+================================================================================
+[2024-01-17 02:09:55,195] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    379  0.04s             0           1  0.08s           2024-01-17T02:09:45
+/opt/airflow/dags/example.py       382  0.01s             1           0  0.09s           2024-01-17T02:09:45
+================================================================================
+[2024-01-17 02:10:25,637] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    409  0.02s             0           1  0.09s           2024-01-17T02:10:15
+/opt/airflow/dags/example.py       412  0.01s             1           0  0.09s           2024-01-17T02:10:15
+================================================================================
+[2024-01-17 02:10:41,743] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:10:53,741] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:10:53,742] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:10:53,743] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:10:53,744] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:10:53,757] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 02:10:53,800] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    169  0.01s             0           0
+/opt/airflow/dags/example.py       171  0.01s             0           0
+================================================================================
+[2024-01-17 02:11:24,193] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    199  0.02s             0           1  0.09s           2024-01-17T02:11:14
+/opt/airflow/dags/example.py       201  0.01s             1           0  0.10s           2024-01-17T02:11:14
+================================================================================
+[2024-01-17 02:11:54,614] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    229  0.01s             0           1  0.07s           2024-01-17T02:11:44
+/opt/airflow/dags/example.py       231  0.00s             1           0  0.10s           2024-01-17T02:11:44
+================================================================================
+[2024-01-17 02:12:25,071] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    259  0.03s             0           1  0.08s           2024-01-17T02:12:14
+/opt/airflow/dags/example.py       262  0.01s             1           0  0.09s           2024-01-17T02:12:15
+================================================================================
+[2024-01-17 02:12:55,526] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    289  0.02s             0           1  0.09s           2024-01-17T02:12:45
+/opt/airflow/dags/example.py       291  0.01s             1           0  0.09s           2024-01-17T02:12:45
+================================================================================
+[2024-01-17 02:13:25,920] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    319  0.01s             0           1  0.08s           2024-01-17T02:13:15
+/opt/airflow/dags/example.py       321  0.01s             1           0  0.09s           2024-01-17T02:13:15
+================================================================================
+[2024-01-17 02:13:36,881] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:13:48,214] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:13:48,215] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:13:48,215] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:13:48,216] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:13:48,235] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 02:13:48,280] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    170  0.02s             0           0
+/opt/airflow/dags/example.py       172  0.01s             0           0
+================================================================================
+[2024-01-17 02:14:18,653] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    200  0.04s             0           1  0.07s           2024-01-17T02:14:08
+/opt/airflow/dags/example.py       203  0.01s             1           0  0.09s           2024-01-17T02:14:08
+================================================================================
+[2024-01-17 02:14:49,089] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    230  0.02s             0           1  0.08s           2024-01-17T02:14:38
+/opt/airflow/dags/example.py       233  0.01s             1           0  0.09s           2024-01-17T02:14:39
+================================================================================
+[2024-01-17 02:15:05,789] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:15:39,125] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:15:39,126] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:15:39,127] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:15:39,129] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:15:39,151] {manager.py:693} INFO - There are 2 files in /opt/airflow/dags
+[2024-01-17 02:15:39,199] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/dag_crypto.py    170  0.02s             0           0
+/opt/airflow/dags/example.py       173  0.01s             0           0
+================================================================================
+[2024-01-17 02:16:09,725] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.36s           2024-01-17T02:16:01
+/opt/airflow/dags/example.py       203  0.02s             1           0  0.10s           2024-01-17T02:15:59
+================================================================================
+[2024-01-17 02:16:40,245] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.33s           2024-01-17T02:16:35
+/opt/airflow/dags/example.py       236  0.02s             1           0  0.10s           2024-01-17T02:16:30
+================================================================================
+[2024-01-17 02:17:10,746] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.30s           2024-01-17T02:17:08
+/opt/airflow/dags/example.py       269  0.02s             1           0  0.12s           2024-01-17T02:17:00
+================================================================================
+[2024-01-17 02:17:38,392] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:39,149] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:39,408] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:40,163] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:40,427] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:41,175] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:41,178] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.30s           2024-01-17T02:17:31
+/opt/airflow/dags/example.py                              1           0  0.12s           2024-01-17T02:17:30
+================================================================================
+[2024-01-17 02:17:41,449] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:41,779] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:42,468] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:42,786] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:43,473] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:43,797] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:44,483] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:44,810] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:45,502] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:45,839] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:46,516] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:46,844] {manager.py:1011} WARNING - Skipping processing of missing file: /opt/airflow/dags/example.py
+[2024-01-17 02:17:46,917] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-17 02:19:13,695] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2024-01-17 02:19:13,696] {manager.py:481} INFO - Process each file at most once every 10 seconds
+[2024-01-17 02:19:13,697] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-01-17 02:19:13,698] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:19:13,720] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 02:19:34,746] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    182  0.01s             0           1  0.36s           2024-01-17T02:19:24
+================================================================================
+[2024-01-17 02:20:05,465] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:19:55
+================================================================================
+[2024-01-17 02:20:35,516] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.30s           2024-01-17T02:20:26
+================================================================================
+[2024-01-17 02:21:05,613] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.30s           2024-01-17T02:20:57
+================================================================================
+[2024-01-17 02:21:35,668] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:21:28
+================================================================================
+[2024-01-17 02:22:05,686] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:21:59
+================================================================================
+[2024-01-17 02:22:35,729] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:22:30
+================================================================================
+[2024-01-17 02:23:05,991] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:23:01
+================================================================================
+[2024-01-17 02:23:36,142] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:23:33
+================================================================================
+[2024-01-17 02:24:06,216] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.26s           2024-01-17T02:24:04
+================================================================================
+[2024-01-17 02:24:14,006] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:24:14,041] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 02:24:36,320] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:24:35
+================================================================================
+[2024-01-17 02:25:06,350] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.25s           2024-01-17T02:25:06
+================================================================================
+[2024-01-17 02:25:36,909] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:25:27
+================================================================================
+[2024-01-17 02:26:06,996] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:25:58
+================================================================================
+[2024-01-17 02:26:37,038] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:26:29
+================================================================================
+[2024-01-17 02:27:07,133] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:27:00
+================================================================================
+[2024-01-17 02:27:37,241] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:27:31
+================================================================================
+[2024-01-17 02:28:07,318] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:28:02
+================================================================================
+[2024-01-17 02:28:37,397] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:28:33
+================================================================================
+[2024-01-17 02:29:07,489] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:29:04
+================================================================================
+[2024-01-17 02:29:14,560] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:29:14,588] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 02:29:37,551] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:29:35
+================================================================================
+[2024-01-17 02:30:07,607] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:30:06
+================================================================================
+[2024-01-17 02:30:37,706] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py    566  0.02s             0           1  0.29s           2024-01-17T02:30:27
+================================================================================
+[2024-01-17 02:31:07,793] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.30s           2024-01-17T02:30:58
+================================================================================
+[2024-01-17 02:31:37,878] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:31:29
+================================================================================
+[2024-01-17 02:32:07,993] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:32:00
+================================================================================
+[2024-01-17 02:32:38,109] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:32:32
+================================================================================
+[2024-01-17 02:33:08,247] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:33:03
+================================================================================
+[2024-01-17 02:33:38,319] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:33:34
+================================================================================
+[2024-01-17 02:34:08,390] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:34:05
+================================================================================
+[2024-01-17 02:34:15,170] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:34:15,198] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 02:34:38,491] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:34:36
+================================================================================
+[2024-01-17 02:35:08,607] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:35:07
+================================================================================
+[2024-01-17 02:35:38,670] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:35:38
+================================================================================
+[2024-01-17 02:36:09,220] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:35:59
+================================================================================
+[2024-01-17 02:36:39,295] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:36:30
+================================================================================
+[2024-01-17 02:37:09,374] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:37:01
+================================================================================
+[2024-01-17 02:37:39,391] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:37:32
+================================================================================
+[2024-01-17 02:38:09,444] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:38:03
+================================================================================
+[2024-01-17 02:38:39,550] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:38:34
+================================================================================
+[2024-01-17 02:39:09,643] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:39:05
+================================================================================
+[2024-01-17 02:39:15,705] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:39:15,736] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2024-01-17 02:39:39,696] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:39:36
+================================================================================
+[2024-01-17 02:40:09,828] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:40:08
+================================================================================
+[2024-01-17 02:40:39,877] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.25s           2024-01-17T02:40:39
+================================================================================
+[2024-01-17 02:41:10,155] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:41:10
+================================================================================
+[2024-01-17 02:41:40,722] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:41:30
+================================================================================
+[2024-01-17 02:42:10,766] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.28s           2024-01-17T02:42:01
+================================================================================
+[2024-01-17 02:42:41,079] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.27s           2024-01-17T02:42:33
+================================================================================
+[2024-01-17 02:43:11,120] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.26s           2024-01-17T02:43:04
+================================================================================
+[2024-01-17 02:43:41,398] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.30s           2024-01-17T02:43:35
+================================================================================
+[2024-01-17 02:44:11,628] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_crypto.py                           0           1  0.29s           2024-01-17T02:44:06
+================================================================================
+[2024-01-17 02:44:16,396] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2024-01-17 02:44:16,425] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
