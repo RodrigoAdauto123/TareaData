@@ -1,4 +1,4 @@
-import script_crypto
+from script_crypto import get_crypto_data
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
@@ -18,16 +18,12 @@ dag = DAG(
     dag_id='crypto_data_dag',
     default_args=default_args,
     description='DAG para obtener datos de criptomonedas y cargar en base de datos',
-    # start_date=datetime(2024,1,15,2),
     schedule_interval=timedelta(hours=12),  # Frecuencia de ejecución
-    task1= BashOperator(task_id='primer_task',
-    bash_command='echo hola mundo, esta es nuestra primera tarea!'
-    )
 )
 
 run_task = PythonOperator(
     task_id='run_crypto_data_task',
-    python_callable= script_crypto.get_crypto_data,
+    python_callable= get_crypto_data,
     dag=dag
 )
 
