@@ -3,14 +3,15 @@ import requests
 import pandas as pd
 import os
 from pandas import json_normalize
+from airflow.models import Variable
 
 # Obteniendo la variables de entorno
 # Airflow no entiende las variables de entorno os, por lo que por ahora lo estoy mandando en texto plano
 # Cuando encuentre la solucion, lo fixeo
-db_name = "data-engineer-database" # data-engineer-database
-username = "adauto_rodrigo_coderhouse" # adauto_rodrigo_coderhouse
-password = "l3Fr2953aE"
-table_name = "crypto" # crypto
+db_name = Variable.get("db_name") # data-engineer-database
+username = Variable.get("username") # adauto_rodrigo_coderhouse
+password = Variable.get("password")
+table_name = Variable.get("table_name") # crypto
 
 def get_crypto_data(): 
     url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&locale=en"
